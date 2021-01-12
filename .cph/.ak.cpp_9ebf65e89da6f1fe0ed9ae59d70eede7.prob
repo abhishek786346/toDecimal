@@ -1,0 +1,1 @@
+{"name":"Local: ak","url":"d:\\C++\\ak.cpp","tests":[{"id":1610434187829,"input":"3 4 5","output":"Pythagoras Triplet"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\ak.cpp","group":"local","local":true}
