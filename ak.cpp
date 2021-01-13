@@ -22,6 +22,7 @@ int main(){
     cin>>n;
     cout<<"Enter base - ";
     cin>>b;
+    cout<<"Decimal No. -";
     cout<<Todecimal(n,b)<<endl;
     return 0;
 
