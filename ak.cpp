@@ -18,9 +18,10 @@ int Todecimal(int n,int b){
 
 int main(){
     int n,b;
-    cin>>n>>b;
-   
-  
+    cout<<"Enter number - ";
+    cin>>n;
+    cout<<"Enter base - ";
+    cin>>b;
     cout<<Todecimal(n,b)<<endl;
     return 0;
 
